@@ -1,0 +1,25 @@
+title: DSC 180A Methodology 4
+author: Sophia Vo
+subtitle: Quarter 2 Project Brainstorming
+
+url: "https://sophia-vo.github.io"
+baseurl: "/DSC180A-Methodology-4"
+
+remote_theme: rhl-bthr/parchment
+plugins:
+  - jekyll-remote-theme
+
+# Parchment theme options
+footer_only_homepage: true
+footer_url: "https://github.com/rhl-bthr/parchment"
+footer_text: "Theme: Parchment by rhl-bthr"
+favicon_location: assets/favicon.ico
+
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
